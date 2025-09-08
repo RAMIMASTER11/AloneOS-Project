@@ -1,8 +1,17 @@
 ## The Alone OS project
 Alone OS is a scratch OS made by me
+# How to Run Alone OS?
+you can run alone OS both 
+- from the Scratch Project
+- Or
+- Downloading it and running it on Scratch/Turbowarp (you'll get better performance on turbowarp and also being able to use 16:9 but Only the wallpapers support the 16:9 Aspect Ratio)
 # this is the project's link https://scratch.mit.edu/projects/991868441/ [Try Alone OS if you want to]
 its main inspiration is from Linux,which is pretty noticable
-i decided to make it opensource on github so that people can actually use my code and sprites (but by crediting me) on their projects.
+i decided to make it opensource on github so that people can 
+- use my code and sprites (but by crediting me) in their projects
+- modify or improve my code
+- Finding Bugs
+- Learning From my code
 # Ideology
 Alone OS's ideology is "that its easy enought to be modified but complex enought to be an actual working Operating System on scratch"
 # Making APPS
@@ -21,7 +30,9 @@ go in "Store/User Made Apps" and read the README.md to see the rules
 # Using my code or scratch sprites
 You can use my code and scratch sprites (that's the literal reason why its here on github) but you have to credit me if you do
 # Making a distro
-if you want to make an Alone OS distro you have to mention that its an Alone OS distro/Alone OS based Operating system,but also include which release its based on and if you update the distro to match with the latest release of Alone OS include it
+if you want to make an Alone OS distro you have to 
+- mention that its an Alone OS distro/Alone OS based Operating system
+- include which release its based on and if you update the distro to match with the latest release of Alone OS include it
 # KOnsole
 KOnsole is the "terminal" of Alone OS,when you make your own distro,remember to update the branding in the terminal in places like "screenfetch"
 # Warning! : KOnsole is PC only for now,its yet not compatible with mobile systems without a physical keyboard
