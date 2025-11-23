@@ -36,4 +36,4 @@ if you want to make an Alone OS distro you have to
 # KOnsole
 KOnsole is the "terminal" of Alone OS,when you make your own distro,remember to update the branding in the terminal in places like "screenfetch"
 # Warning! : KOnsole is PC only for now,its yet not compatible with mobile systems without a physical keyboard
-# Current Release = 9.2 Tiramisu
+# Current Release = X Lemon
