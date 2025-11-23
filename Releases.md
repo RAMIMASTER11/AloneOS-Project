@@ -28,3 +28,4 @@ build 17124
 "Mochi" Major Release 9.0:The Installer actually works,fixed some stuff, re implemented the store,added PumkinDE version and idk
 Anniversary! Release 9.1: happy a year anniversary of alone OS/log os2
 "Tiramisu" Minor release 9.2: Little polishing and update after my break
+"Lemon" Major Release X:New theme,bug fixes,improved stuff and uhh idk i forgot :sob:
