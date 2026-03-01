@@ -7,3 +7,4 @@
 # always test the app on the latest version
 # in case you test its compatability on other Alone OS versions,please list it
 # You may use the new icon style (used for F.SH) if for example your app supports the user selecting the UI's Colors
+# Your App MUST Have Atleast the "Safe App" and "Scratch Friendly" badges to Be added in the store
