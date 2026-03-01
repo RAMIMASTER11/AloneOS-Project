@@ -6,3 +6,4 @@
 # test the app and polish bugs and UI
 # always test the app on the latest version
 # in case you test its compatability on other Alone OS versions,please list it
+# You may use the new icon style (used for F.SH) if for example your app supports the user selecting the UI's Colors
