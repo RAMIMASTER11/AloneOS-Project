@@ -25,6 +25,7 @@ go in "Store/User Made Apps" and read the README.md to see the rules
 - Log in Screen:Here there are the components for the log in screen
 - REQUIRED TO EVEN START:Here go the Fundamental Starter components of Alone OS,if you want to make your own Alone OS distro please put the components here as the first things in your project
 - Store:Here go the apps in the store, there are apps made by me and most likely user made apps too
+- easter eggs:All easter eggs from alone os 10.1 and on
 - Extras:Here there are extra things that arent fully required
 - Installer:Here there are the components of the installer app of Alone OS,you can use it in your scratch OS if you cant make one
 # Using my code or scratch sprites
