@@ -29,3 +29,4 @@
 - "Tiramisu" Minor release 9.2: Little polishing and update after my break
 - "Lemon" Major Release X:New theme,bug fixes,improved stuff and uhh idk i forgot :sob:
 - "Cut Lemon" Medium Release 10.1:Some Icon's Redesign,Easter egg,New wallpaper New UI For Store and New stuff In The Setting's UI
+- "Tangerine" Medium/Big Release 10.2:Multiple Variable Deprecation,Renaming or addition,Bug Fixes,More Animations,New Icons,Transparencies,Space Themed Wallpaper,Redesigned Log In screen,Menu and other stuff
